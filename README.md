@@ -8,4 +8,4 @@ Dataset link: http://bit.ly/w-data
 
 Language : Python
 
-Tool : Jupyter
+Tool : Jupyter Notebook
